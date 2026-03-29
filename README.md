@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1ka4y1k7Eu
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的大学生就业招聘系统，分为管理后台和用户网页端，可以给管理员和用户和企业角色使用，包括企业模块、岗位模块、招聘信息模块、在线留言模块、面试邀请模块、求职信息模块和系统基础模块，项目编号T058。
 
